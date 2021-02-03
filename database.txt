@@ -1,0 +1,73 @@
+HospitalManagement.Hospital{
+{
+    "_id": {
+        "$oid": "5f78316f8068d71ce0bd0d25"
+    },
+    "hId": "H1",
+    "name": "Apollo Hospital",
+    "location": "17.39844,78.484334",
+    "Address": "Plot No. 3-5-874/1, Near Old MLA Quarters, Hyderguda, Hyderabad, Telan...",
+    "ContactNumber": "040-23231380"
+}
+
+{
+    "_id": {
+        "$oid": "5f7841fb8068d71ce0bd0d2b"
+    },
+    "hId": "H2",
+    "name": "MGM Hospital",
+    "location": "17.39844,78.484334",
+    "Address": "Plot No. 3-5-874/1, Hyderabad, Telan...",
+    "ContactNumber": "040-23231380"
+}
+}
+
+
+HospitalManagement.Ventilators
+
+{
+    "_id": {
+        "$oid": "5f78427f8068d71ce0bd0d2d"
+    },
+    "hId": "H2",
+    "VentilatorId": "H2V2",
+    "Status": "occupied",
+    "name": "MGM Hospital"
+}
+{
+    "_id": {
+        "$oid": "5f7851f589be8f274ca60c81"
+    },
+    "hId": "H1",
+    "VentilatorId": "H1V1",
+    "Status": "available",
+    "name": "apollo Hospital"
+}
+{
+    "_id": {
+        "$oid": "5f78521689be8f274ca60c83"
+    },
+    "hId": "H1",
+    "VentilatorId": "H1V3",
+    "Status": "available",
+    "name": "apollo Hospital"
+}
+
+{
+    "_id": {
+        "$oid": "5f78522689be8f274ca60c84"
+    },
+    "hId": "H2",
+    "VentilatorId": "H2V1",
+    "Status": "occupied",
+    "name": "MGM Hospital"
+}
+{
+    "_id": {
+        "$oid": "5f78524c89be8f274ca60c86"
+    },
+    "hId": "H1",
+    "VentilatorId": "H1V2",
+    "Status": "available",
+    "name": "apollo Hospital"
+}
