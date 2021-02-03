@@ -11,3 +11,5 @@ The database "hospitalInventory" consists of two collections:
 2."ventilator"
 
 The db.txt file contains the database schema and the entries made into the database.
+## POSTMAN ##
+I have used POSTMAN for testing and posting details of API
