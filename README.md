@@ -7,5 +7,7 @@ This project aims at building an inventory tracking system for ventilators that 
 The database "hospitalInventory" consists of two collections:
 
 1."hospital"
+
 2."ventilator"
+
 The db.txt file contains the database schema and the entries made into the database.
