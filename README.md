@@ -13,3 +13,13 @@ The database "hospitalInventory" consists of two collections:
 The database.txt file contains the database schema and the entries made into the database.
 ## POSTMAN ##
 I have used POSTMAN for testing and posting details of API
+## ALogin and get token for authentication
+1.Verify Authorization
+2.Read Hospital Details
+3.Read Ventilator Details
+4.Search Ventilators by status
+5.Search Ventilators by Hospital name
+6.Search Hospital by Hospital Name
+7.Update Ventilator Details
+8.Add Ventilator
+9.Delete Ventilator by VentilatorIdPI
